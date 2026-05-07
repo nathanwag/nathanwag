@@ -10,7 +10,7 @@
 ### 🛠 Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,py,docker,git,js,html,css,mysql,mongodb,ros" />
+  <img src="https://skillicons.dev/icons?i=py,docker,git,cs,js,html,css,mysql,ros" />
 </p>
 
 ### 🤝 Connect with me
